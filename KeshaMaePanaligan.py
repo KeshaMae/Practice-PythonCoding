@@ -1,9 +1,4 @@
 #Python Syntax
-from ast import Str
-from logging.config import IDENTIFIER
-from time import localtime
-
-
 print("Kesha Mae Panaligan-2101")
 
 print("--------------------------------------------------------------------------------")     
