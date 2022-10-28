@@ -1,0 +1,12 @@
+#Python Syntax
+print("Kesha Mae Panaligan-2101")
+print("\n") 
+print("--------------------------------------------------------------------------------")     
+print("\n")
+
+#Python Indentation
+if 10 > 5:
+ print("Ten is greater than two.")
+print("\n") 
+print("--------------------------------------------------------------------------------")     
+print("\n")
