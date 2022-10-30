@@ -310,3 +310,38 @@ Ident = [True, False, False]
 print(type(Song))
 print(type(Section))
 print(type(Ident))
+
+print("--------------------------------------------------------------------------------")
+
+#Tuple
+songtuple = ("Photograph", "Guitara", "Unwell")
+print(songtuple)
+
+print("--------------------------------------------------------------------------------")
+
+#Allow Duplicates
+songtuple = ("Photograph", "Guitar", "Unwell", "Photograph", "Guitar")
+print(songtuple)
+
+print("--------------------------------------------------------------------------------")
+
+#Tuple Length
+songtuple = ("Photograph", "Guitar", "Unwell")
+print(len(songtuple))
+
+print("--------------------------------------------------------------------------------")
+
+#Set
+thisset = {"Ron", "Ally", "Joan"}
+print(thisset)
+
+print("--------------------------------------------------------------------------------")
+
+#Set in Different Data Types
+mySet1 = {"Ron", "Ally", "Joan"}
+mySet2 = {7, 1, 4, 3, 2}
+mySet3 = {True, False, False}
+
+print = (type(mySet1))
+print = (type(mySet2))
+print = (type(mySet3))
