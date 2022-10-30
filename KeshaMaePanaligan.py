@@ -232,7 +232,7 @@ print("-------------------------------------------------------------------------
 
 #String Format
 age = 19
-txt = "My name is Ron, I am " + age
+txt = "Ron age is " + age
 print(txt)
 
 print("--------------------------------------------------------------------------------") 
@@ -339,9 +339,10 @@ print("-------------------------------------------------------------------------
 
 #Set in Different Data Types
 mySet1 = {"Ron", "Ally", "Joan"}
-mySet2 = {7, 1, 4, 3, 2}
-mySet3 = {True, False, False}
-
 print = (type(mySet1))
+
+mySet2 = {7, 1, 4, 3, 2}
 print = (type(mySet2))
+
+mySet3 = {True, False, False}
 print = (type(mySet3))
